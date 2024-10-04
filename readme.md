@@ -4,6 +4,21 @@ Introduction
 
 DeepEval is an open-source evaluation framework designed specifically for testing Large Language Models (LLMs). It provides a systematic way to assess LLM outputs across various dimensions and maintain quality standards in AI applications.
 
+Purpose: DeepEval is specifically designed for LLM testing, providing a structured way to evaluate model outputs.
+Main Components:
+
+Test Cases: Define input/output pairs
+Metrics: Various evaluation criteria
+Datasets: Collections of test cases
+
+
+Key Features:
+
+Multiple evaluation metrics
+Custom metric creation
+Async evaluation support
+Detailed reporting
+
 Core Components
 
 1. Test Cases
